@@ -12,6 +12,10 @@ header {
   align-items: center;
 }
 
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 img {
   float: right;
 }
